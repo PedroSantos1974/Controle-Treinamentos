@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Controle de Treinamentos e Integração - Irigaray</title>
+  </head>
+  <body>
+  
+    <?php>
+      echo "Controle de Treinamentos e Intregração - Irigaray";
+    <?>
+    
+  </body>
+</html>
